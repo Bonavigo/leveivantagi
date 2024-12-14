@@ -21,6 +21,7 @@ export default function Pagina() {
               </div>
             </div>
           </div>
+      </div>
     </form>
   )
 }
